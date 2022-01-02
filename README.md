@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HandyHarley
 - 👀 I’m interested in statistics, data science, programming (R, Python, Java, C#) and LP/NLP.
-- 🌱 I’m currently studying statistics at the University of Jyväskylä, Finland. I am working with my Master's thesis about the use of Bayesian random effect models in large scale tunnel maintenance allocation. 
+- 🌱 I just finished my Master's thesis about the use of Bayesian random effect model in large scale tunnel maintenance allocation problem. 
 - 💞️ I’m looking to collaborate on any field that might be suitable for my background.
 - 📫 teemu.julkunen@harley.fi
 
