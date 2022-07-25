@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HandyHarley
+- 👋 Hi, I’m @Teemu Julkunen
 - 👀 I’m interested in statistics, data science, programming (R, Python, Java, C#) and LP/NLP.
 - 🌱 I just finished my Master's thesis about the use of Bayesian random effect model in large scale tunnel maintenance allocation problem. 
 - 💞️ I’m looking to collaborate on any field that might be suitable for my background.
